@@ -57,7 +57,7 @@ This project, named WSTF - Europe Hexagonal Map, is designed to visualize geogra
 
 ## Hosted Link for the project
 
-[**Link**]()
+[**Link**](https://beautiful-donut-078323.netlify.app/)
 
 ## How I approached the task
 
