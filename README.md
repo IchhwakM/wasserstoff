@@ -53,7 +53,7 @@ This project, named WSTF - Europe Hexagonal Map, is designed to visualize geogra
 
 ## Video Explaining the project
 
-[**Link**]()
+[**Link**](https://drive.google.com/drive/folders/106oEHdD6eKPW2QbSai6GP9XX7BnQ_jsF)
 
 ## Hosted Link for the project
 
